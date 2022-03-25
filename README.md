@@ -1,6 +1,8 @@
 <h1>Hi, I'm Rami <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h2><u><b>Knowledge Base</b></u></h2>
+Hi there! Welcome to my GitHub profile. I'm Rami and I'm a full stack developer, with a passion for front-end development. Feel free to browse around and shoot me a message if you would like to connect or collaborate!
+
+<h2><u><b>Skills</b></u></h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
